@@ -1,0 +1,8 @@
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\bin\Debug\netcoreapp2.1\Paksys.NetCore.Logging.deps.json
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\bin\Debug\netcoreapp2.1\Paksys.NetCore.Logging.dll
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\bin\Debug\netcoreapp2.1\Paksys.NetCore.Logging.pdb
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\obj\Debug\netcoreapp2.1\Paksys.NetCore.Logging.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\obj\Debug\netcoreapp2.1\Paksys.NetCore.Logging.AssemblyInfoInputs.cache
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\obj\Debug\netcoreapp2.1\Paksys.NetCore.Logging.AssemblyInfo.cs
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\obj\Debug\netcoreapp2.1\Paksys.NetCore.Logging.dll
+C:\Users\khali\source\repos\WebApplication6\Paksys.NetCore.Logging\obj\Debug\netcoreapp2.1\Paksys.NetCore.Logging.pdb
