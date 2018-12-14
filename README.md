@@ -1,0 +1,1 @@
+"# Paksys.NetCore.Logging" 
